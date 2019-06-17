@@ -126,7 +126,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\CalendarViewSample\CalendarViewSample.csproj">
-      <Project>{6A66D510-7CF2-4A5A-AED0-667B23ED63D0}</Project>
+      <Project>{5D3C5668-C774-4776-A9A3-E5D08D34D7B7}</Project>
       <Name>CalendarViewSample</Name>
     </ProjectReference>
   </ItemGroup>
